@@ -26,5 +26,7 @@ Math.random method to generate a random password.
 
 ### Link to Deployed Application
 
+https://brachtco.github.io/password-generator/
+
 ### Screenshot
 ![Screen Shot 2022-11-14 at 10 25 42 AM](https://user-images.githubusercontent.com/17559972/201726340-0acd0bfb-09d8-4310-b1f3-249698e67f44.png)
